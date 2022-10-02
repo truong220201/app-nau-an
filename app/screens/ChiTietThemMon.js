@@ -8,7 +8,7 @@ export default function ChiTietThemMon() {
     return (
       <ScrollView style={styles.ScrollView}>
         <View style={styles.container}>
-           
+            
            <View style={styles.input}>
           <TextInput style={styles.txtinput}             
               placeholder='Tên món ăn:'
